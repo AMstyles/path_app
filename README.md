@@ -1,10 +1,13 @@
 # path_app
 
-A new Flutter project.
+This is sample file structure for our big project.
 
-## Getting Started
+## Project Description
+When we clik download image, the app should download image and store it in app directory/images folder 
+Then display the image in the app
+--------
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
